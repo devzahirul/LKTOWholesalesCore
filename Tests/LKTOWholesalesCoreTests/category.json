@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "id": 160,
+            "name": "BEST OF BEST",
+            "slug": "bestofbest",
+            "parent": "",
+            "sub_categories": [],
+            "sort": 1,
+            "status": 1,
+            "image": "https://davidani.com/api/storage/categories/RNUwAKgH7EbOVk510Qp35XR4KnclenXAXeJ9ky8Y.png",
+            "description": "Our wholesale clothing inventory is really enriched to satisfy your wholesale demand. Therefore, let's see our best of best items from our inventory so that your wholesale shopping will be more value adding for your business."
+        },
+        {
+            "id": 161,
+            "name": "NEW ARRIVALS",
+            "slug": "pre-order",
+            "parent": "",
+            "sub_categories": [
+                {
+                    "id": 163,
+                    "name": "REGULAR",
+                    "slug": "regular",
+                    "parent": 161,
+                    "sort": 1,
+                    "status": 1,
+                    "image": "https://davidani.com/api/storage/categories/uAYf7YFXH0NVW4wG8U6TpRNQM5AdQm36x0D4Ku82.png",
+                    "description": "Let's check our all pre order regular items like dresses, tops, rompers, jumpsuits, outerwear, sweaters and more. We always try to keep the new styles here. Let's scroll down and check."
+                },
+                {
+                    "id": 188,
+                    "name": "PLUS SIZE",
+                    "slug": "plussize",
+                    "parent": 161,
+                    "sort": 2,
+                    "status": 1,
+                    "image": "https://davidani.com/api/storage/categories/WHae7jinn3s7fRHSR9Mhbnbe7WygXbHp1HoYPKxY.png",
+                    "description": "We have all pre-order plus size items like dresses, tops, rompers, jumpsuits, outerwear, sweaters, and more. You will always find new styles here. Check them out."
+                }
+            ],
+            "sort": 2,
+            "status": 1,
+            "image": "https://davidani.com/api/storage/categories/Wy98o0CebXdJ7kpexPd35T4XWqX0YiDJKQfgAQzk.png",
+            "description": "So you are excited regarding our new styles!! But you have to put pre order for our new products. Let's scroll down the pre order items and see our new styles..."
+        },
+        {
+            "id": 219,
+            "name": "SWIMWEAR",
+            "slug": "swimwear",
+            "parent": "",
+            "sub_categories": [
+                {
+                    "id": 220,
+                    "name": "REGULAR",
+                    "slug": "regular",
+                    "parent": 219,
+                    "sort": 1,
+                    "status": 1,
+                    "image": null,
+                    "description": "It's summer now! It's high time you got yourself a swimsuit to take a refreshing dip in the sea and in other watery places. Scroll down to see our wholesale swimwear collection."
+                },
+                {
+                    "id": 221,
+                    "name": "PLUS",
+                    "slug": "plus",
+                    "parent": 219,
+                    "sort": 2,
+                    "status": 1,
+                    "image": null,
+                    "description": "So now it's summer!! It's high time to have a plus size swimwear to enjoy a refreshing bath at sea and other watery places splashing your curve. Let's scroll down..."
+                }
+            ],
+            "sort": 3,
+            "status": 1,
+            "image": "https://davidani.com/api/storage/categories/gd4dH2MRKlm7BsBliNc4XycpVJSaO28pl3BnGzFq.jpg",
+            "description": "So now it's summer!! It's high time to have a swimwear to enjoy a refreshing bath at sea and other watery places. Let's scroll down and check our wholesale swimwear collection..."
+        },
+        {
+            "id": 223,
+            "name": "5% OFF F/W COLLECTION",
+            "slug": "f-w-2022-regular-size",
+            "parent": "",
+            "sub_categories": [
+                {
+                    "id": 249,
+                    "name": "REGULAR",
+                    "slug": "regular-2",
+                    "parent": 223,
+                    "sort": 1,
+                    "status": 1,
+                    "image": null,
+                    "description": null
+                },
+                {
+                    "id": 250,
+                    "name": "PLUS",
+                    "slug": "plus-2",
+                    "parent": 223,
+                    "sort": 2,
+                    "status": 1,
+                    "image": null,
+                    "description": null
+                }
+            ],
+            "sort": 4,
+            "status": 1,
+            "image": null,
+            "description": "Here is your wardrobe speaking that you need these all!!! Davi & Dani has found all the clothing ranges to ensure that you will be able to maximize your attitude while you are trying to take your style to the new levels. Fulfill your wardrobe with fresh and new wholesale women's clothing straight from the new season. Face the party season and get the attention from your lovely ones or make the dancefloor yours in magical embellishment. So get browsing, get looking and get clicking…"
+        },
+        {
+            "id": 235,
+            "name": "5% OFF S/S COLLECTION",
+            "slug": "s-s-collection-regular-size",
+            "parent": "",
+            "sub_categories": [
+                {
+                    "id": 251,
+                    "name": "REGULAR",
+                    "slug": "regular-3",
+                    "parent": 235,
+                    "sort": 1,
+                    "status": 1,
+                    "image": null,
+                    "description": null
+                },
+                {
+                    "id": 252,
+                    "name": "PLUS",
+                    "slug": "plus-3",
+                    "parent": 235,
+                    "sort": 2,
+                    "status": 1,
+                    "image": null,
+                    "description": null
+                }
+            ],
+            "sort": 5,
+            "status": 1,
+            "image": null,
+            "description": "Here is your wardrobe speaking that you need these all!!! Davi & Dani has found all the clothing ranges to ensure that you will be able to maximize your attitude while you are trying to take your style to the new levels. Fulfill your wardrobe with fresh and new wholesale women's clothing straight from the new season. Face the party season and get the attention from your lovely ones or make the dancefloor yours in magical embellishment. So get browsing, get looking and get clicking…"
+        },
+        {
+            "id": 253,
+            "name": "ACCESSORIES",
+            "slug": "accessory",
+            "parent": "",
+            "sub_categories": [],
+            "sort": 7,
+            "status": 1,
+            "image": null,
+            "description": "Here is your wardrobe speaking that you need these all!!! Davi & Dani has found all the clothing ranges to ensure that you will be able to maximize your attitude while you are trying to take your style to the new levels. Fulfill your wardrobe with fresh and new wholesale women's clothing straight from the new season. Face the party season and get the attention from your lovely ones or make the dancefloor yours in magical embellishment. So get browsing, get looking and get clicking…"
+        }
+    ]
+}
